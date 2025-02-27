@@ -1,0 +1,57 @@
+
+button:hover {
+    background: #555;
+}
+.main-box {
+    background-color: black; /* Qora fon */
+    color: white; /* Oq yozuv */
+    padding: 20px;
+    width: 400px; /* Quti kengligi */
+    text-align: center;
+    border-radius: 10px; /* Yumuq burchaklar */
+    margin: 50px auto; /* Sahifa markaziga joylash */
+}
+
+.login-container {
+    background-color: beige; /* Formaning foni */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px; /* Matndan keyin biroz pastga tushirish */
+}
+
+input {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: gray;
+}
+body {
+    background-image: url('logo.png'); /* Orqa fon rasmi */
+    background-size: cover; /* Rasm ekranga to‘liq sig‘ishi uchun */
+    background-position: center; /* Rasm markazga joylashishi uchun */
+    background-repeat: no-repeat; /* Rasm takrorlanmasligi uchun */
+}
+.error {
+    color: red; 
+    font-size: 14px;
+    margin-top: 5px;
+}
+.error {
+    color: red; 
+    font-size: 14px;
+    margin-top: 5px;
+}
